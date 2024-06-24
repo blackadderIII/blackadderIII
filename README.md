@@ -13,6 +13,12 @@
 
 ###
 
+<p> <img src="https://komarev.com/ghpvc/?username=blackadderIII&label=Profile%20views&color=0e75b6&style=flat" alt="Samuel's Profile views" /> </p>
+
+###
+
+###
+
 <p align="left">Let's connect via:</p>
 
 ###
