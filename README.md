@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/tree/v2.16.0/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
 
 ###
