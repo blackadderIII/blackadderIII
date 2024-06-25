@@ -17,13 +17,23 @@
 
 ###
 
+
+<p align="left">Languages I know</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+</div>
+
 ###
 
 <p align="left">Let's connect via:</p>
 
 ###
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/barnes-ko/" target="_blank">
