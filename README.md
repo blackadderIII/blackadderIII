@@ -31,6 +31,16 @@
 
 ###
 
+<p align="left">Frameworks I'm proficient at</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-plain.svg" height="40" width="52" alt="express logo"  />
+</div>
+
+###
+
 <p align="left">Let's connect via:</p>
 
 ###
