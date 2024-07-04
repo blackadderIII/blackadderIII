@@ -42,6 +42,17 @@
 </div>
 
 ###
+<p align="left">Other Tools I use </p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+
+</div>
+
+###
 
 <p align="left">Let's connect via:</p>
 
